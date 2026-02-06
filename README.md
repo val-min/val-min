@@ -20,10 +20,6 @@ SwiftUI & Swift for iOS experiences
 
 <br>
 
-My favorite project right now is Tona
-
-<br>
-
 🛠️ Tech Stack & Tools
 
 Languages & Frameworks:
