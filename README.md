@@ -24,8 +24,11 @@ SwiftUI & Swift for iOS experiences
 
 Languages & Frameworks:
 Swift / SwiftUI
+
 Java / JavaFX
+
 JavaScript
+
 HTML & CSS
 
 
